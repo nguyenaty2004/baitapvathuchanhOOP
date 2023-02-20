@@ -1,4 +1,4 @@
-package baitapbotuc;
+package baitapbotuc.ngay17022023;
 
 public class lithuyet1 {
     public static void main(String[] args) {
