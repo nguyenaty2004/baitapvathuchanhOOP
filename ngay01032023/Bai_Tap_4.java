@@ -9,7 +9,7 @@ public class Bai_Tap_4 {
             if (array[i]==2||array[i]==4||array[i]==9) {
                 nhan = nhan * array[i];
             }
-        }
+        }  
 
         System.out.println("Tich so 2 4 9: "+nhan);
     }
